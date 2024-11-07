@@ -1,0 +1,92 @@
+[
+  {
+    "bookName": "The Great Gatsby",
+    "writer": "F. Scott Fitzgerald",
+    "publisher": "Charles Scribner's Sons",
+    "pageNumber": "218",
+    "language": "English",
+    "price": "10.99",
+    "isbn": "9780743273565"
+  },
+  {
+    "bookName": "To Kill a Mockingbird",
+    "writer": "Harper Lee",
+    "publisher": "J.B. Lippincott & Co.",
+    "pageNumber": "281",
+    "language": "English",
+    "price": "7.99",
+    "isbn": "9780060935467"
+  },
+  {
+    "bookName": "1984",
+    "writer": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "pageNumber": "328",
+    "language": "English",
+    "price": "9.99",
+    "isbn": "9780451524935"
+  },
+  {
+    "bookName": "Pride and Prejudice",
+    "writer": "Jane Austen",
+    "publisher": "T. Egerton, Whitehall",
+    "pageNumber": "432",
+    "language": "English",
+    "price": "8.99",
+    "isbn": "9781503290563"
+  },
+  {
+    "bookName": "The Catcher in the Rye",
+    "writer": "J.D. Salinger",
+    "publisher": "Little, Brown and Company",
+    "pageNumber": "277",
+    "language": "English",
+    "price": "10.99",
+    "isbn": "9780316769488"
+  },
+  {
+    "bookName": "Moby-Dick",
+    "writer": "Herman Melville",
+    "publisher": "Richard Bentley",
+    "pageNumber": "585",
+    "language": "English",
+    "price": "11.99",
+    "isbn": "9781503280786"
+  },
+  {
+    "bookName": "War and Peace",
+    "writer": "Leo Tolstoy",
+    "publisher": "The Russian Messenger",
+    "pageNumber": "1225",
+    "language": "English",
+    "price": "12.99",
+    "isbn": "9781620954300"
+  },
+  {
+    "bookName": "The Odyssey",
+    "writer": "Homer",
+    "publisher": "Unknown",
+    "pageNumber": "541",
+    "language": "English",
+    "price": "9.99",
+    "isbn": "9781420954700"
+  },
+  {
+    "bookName": "Crime and Punishment",
+    "writer": "Fyodor Dostoevsky",
+    "publisher": "The Russian Messenger",
+    "pageNumber": "430",
+    "language": "English",
+    "price": "10.99",
+    "isbn": "9781420954900"
+  },
+  {
+    "bookName": "The Picture of Dorian Gray",
+    "writer": "Oscar Wilde",
+    "publisher": "Lippincott's Monthly Magazine",
+    "pageNumber": "254",
+    "language": "English",
+    "price": "8.99",
+    "isbn": "9781503280298"
+  }
+]
